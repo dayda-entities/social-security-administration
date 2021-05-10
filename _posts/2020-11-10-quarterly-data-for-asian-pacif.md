@@ -1,28 +1,24 @@
 ---
 title: >-
-  Quarterly Data for Asian & Pacific Islander Language Preferences of Social
-  Security Disability Insurance Claimants (2014-2015)
-created: '2020-11-10T16:50:02.104810'
-modified: '2020-11-10T16:50:02.104822'
+  Quarterly Data for Asian & Pacific Islander Language Preferences of End Stage
+  Renal Disease Medicare Claimants (2016 Onward)
+created: '2020-11-10T16:51:48.976065'
+modified: '2020-11-10T16:51:48.976072'
 state: active
 type: dataset
 tags:
-  - '2014'
-  - '2015'
-  - Asian Languages
-  - Asians
-  - Chinese
-  - Disability Claims
-  - Pacific Island Languages
-  - Pacific Islanders
+  - '2016'
+  - Asian And Pacific Islander Language
+  - End Stage Renal Disease Medicare Claims
+  - Esrd
   - Social Security
   - Social Security Administration
+  - Social Security Disability Insurance
   - Ssa
-  - Vietnamese
 groups: []
-csv_url: 'https://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Q.csv'
+csv_url: 'https://www.ssa.gov/open/data/fy16-onwards-API-Spklang-IC-ESRD-Qtrly.csv'
 json_url: ''
 layout: post
 
 ---
-This dataset provides quarterly volumes of the Social Security Disability Insurance initial claims at the national level for federal fiscal years 2014 - 2015 for Asian & Pacific Islander language preferences.
+This dataset provides quarterly volumes for Medicare claims based solely on ESRD at the national level for federal fiscal years 2016 onward for Asian & Pacific Islander language preferences.
