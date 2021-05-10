@@ -1,12 +1,10 @@
 ---
-title: Death Probabilities for Females (2011-2090)
-created: '2020-11-10T16:50:53.318276'
-modified: '2021-04-06T02:55:11.178173'
+title: Death Probabilities for Females (1900-2010)
+created: '2020-11-10T16:50:53.234106'
+modified: '2021-04-06T02:55:09.292533'
 state: active
 type: dataset
 tags:
-  - '2011'
-  - '2090'
   - Death
   - Death Probabilities
   - Females
@@ -16,9 +14,9 @@ tags:
   - Social Security Administration
   - Ssa
 groups: []
-csv_url: 'https://www.ssa.gov/oact/HistEst/Death/2014/DeathProbsE_F_Alt2_TR2014.csv'
+csv_url: 'https://www.ssa.gov/oact/HistEst/Death/2014/DeathProbsE_F_Hist_TR2014.csv'
 json_url: ''
 layout: post
 
 ---
-The following tables provide historical and projected probabilities of death by age, gender, and year for the period 2011 - 2090. Death probabilities for females.
+The following tables provide historical and projected probabilities of death by single year of age, gender, and year for the period 1900 through 2010. Death Probabilities for Females.
