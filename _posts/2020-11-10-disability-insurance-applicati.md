@@ -1,11 +1,10 @@
 ---
-title: Disability Insurance Applications Filed via the Internet - FY 2016 (53rd week)
-created: '2020-11-10T16:52:03.664719'
-modified: '2020-11-10T16:52:03.664726'
+title: Disability Insurance Applications Filed via the Internet - FY 2008-2011
+created: '2020-11-10T16:49:58.543034'
+modified: '2021-04-06T02:45:04.434316'
 state: active
 type: dataset
 tags:
-  - 53rd Week
   - Disability Insurance Application
   - Disability Insurance Online
   - Disability Online
@@ -16,9 +15,9 @@ tags:
   - Ssa
   - Ssa Internet Services
 groups: []
-csv_url: 'https://www.ssa.gov/open/data/fy12-onward-dib-filed-via-internet-53rdweek.csv'
+csv_url: 'https://www.ssa.gov/open/data/fy08-present-dib-filed-via-internet.csv'
 json_url: ''
 layout: post
 
 ---
-In fiscal year (FY) 2012 we expanded access to our Internet services by launching additional Spanish language services, including a Spanish language online application for disability benefits. This dataset includes data from the extra 53rd workload reporting week in Fiscal Year 2016.
+This dataset provides monthly data at the national level from federal fiscal year 2008 - 2011 for initial Social Security Disability Insurance (SSDI) applications filed via the Internet.  The dataset includes only SSDI initial receipts.  SSDI initial receipt represent a worker in covered employment long enough and recently enough to be "insured", earning paid Social Security taxes.  Social Security work credits are based on total yearly wages or self-employment income.  The amount needed for a credit changes from year to year.  The number of work credits needed to qualify for disability benefits depends on age at disability onset.  Generally, 40 credits are needed, 20 of which were earned in the last 10 years ending with the year of disability onset.
