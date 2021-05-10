@@ -1,26 +1,23 @@
 ---
 title: >-
-  Yearly Data for Spoken Language Preferences of Social Security Disability
-  Insurance Claimants (FY 2016, including 53rd week)
-created: '2020-11-10T16:52:02.271450'
-modified: '2020-11-10T16:52:02.271457'
+  Yearly Data for Spoken Language Preferences of End Stage Renal Disease
+  Medicare Claimants (2016 Onwards)
+created: '2020-11-10T16:52:01.931519'
+modified: '2020-11-10T16:52:01.931527'
 state: active
 type: dataset
 tags:
   - '2016'
-  - 53rd Week
-  - Claimants
-  - Disability
-  - Disability Claimants
+  - End Stage Renal Disease
+  - Esrd
+  - Lep
   - Social Security
   - Social Security Administration
   - Ssa
-  - Survivor
 groups: []
-csv_url: >-
-  https://www.ssa.gov/open/data/fy16-onwards-LEP-Spklang-IC-T2-Dib-Yrly-53rdweek.csv
+csv_url: 'https://www.ssa.gov/open/data/fy16-onwards-LEP-Spklang-IC-ESRD-Yrly.csv'
 json_url: ''
 layout: post
 
 ---
-This dataset provides annual volume of the Social Security Disability initial claims at the national level from federal fiscal year 2016 shown two ways—we base one on a 52-week reporting period and one on a 53-week reporting period.
+This data set provides annual volumes for language preferences at the national level of individuals filing claims for ESRD Medicare benefits for federal fiscal year 2016 onward.
