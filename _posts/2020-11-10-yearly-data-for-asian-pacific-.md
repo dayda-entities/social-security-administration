@@ -1,29 +1,24 @@
 ---
 title: >-
-  Yearly Data for Asian & Pacific Islander Language Preferences of End Stage
-  Renal Disease Medicare Claimants (2010-2015)
-created: '2020-11-10T16:50:12.675014'
-modified: '2020-12-03T20:36:08.669359'
+  Yearly Data for Asian & Pacific Islander Language Preferences of Supplemental
+  Security Income Aged Applicants (2016 Onward)
+created: '2020-11-10T16:52:02.513050'
+modified: '2020-12-03T20:38:22.893049'
 state: active
 type: dataset
 tags:
-  - '2010'
-  - '2011'
-  - '2012'
-  - '2013'
-  - '2014'
-  - '2015'
-  - Asian And Pacific Islander Language
-  - End Stage Renal Disease Medicare Claims
-  - Esrd
+  - '2016'
+  - Aged
+  - Asian Pacific Islander Language
+  - Initial Claims
   - Social Security
   - Social Security Administration
-  - Social Security Disability Insurance
   - Ssa
+  - Supplemental Security Income
 groups: []
-csv_url: 'https://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Yrly_ESRD.csv'
+csv_url: 'https://www.ssa.gov/open/data/fy16-onwards-API-Spklang-IC-T16-SSIAged-Yrly.csv'
 json_url: ''
 layout: post
 
 ---
-This data set provides annual volumes for Asian and Pacific Islander language preferences at the national level of the LEP claimants for Medicare based solely on ESRD for federal fiscal years 2010 - 2015.
+This data set provides annual volumes for API language preferences at the national level of individuals filing claims for SSI Aged benefits from federal fiscal year 2016 onward.
