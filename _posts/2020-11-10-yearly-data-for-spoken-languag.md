@@ -1,9 +1,9 @@
 ---
 title: >-
-  Yearly Data for Spoken Language Preferences of Supplemental Security Income
-  Aged Applicants (2011-2015)
-created: '2020-11-10T16:50:14.042584'
-modified: '2020-12-03T20:36:09.941856'
+  Yearly Data for Spoken Language Preferences of Social Security Retirement and
+  Survivor Claimants (2011-2015)
+created: '2020-11-10T16:50:14.554669'
+modified: '2020-11-10T16:50:14.554677'
 state: active
 type: dataset
 tags:
@@ -12,18 +12,18 @@ tags:
   - '2013'
   - '2014'
   - '2015'
-  - Initial Claims
+  - Claimants
+  - Language Preferences
+  - Retirement
+  - Retirement And Survivor Claimants
   - Social Security
   - Social Security Administration
-  - Spoken Language
   - Ssa
-  - Ssi
-  - Supplemental Security Income
+  - Survivor
 groups: []
-csv_url: >-
-  https://www.ssa.gov/open/data/Yrly-Data-Spoken-Language-Initial-Claims-SSI-Aged.csv
+csv_url: 'https://www.ssa.gov/open/data/Yrly-Spoken-Language-Initial-Claims-RSI.csv'
 json_url: ''
 layout: post
 
 ---
-This data set provides annual volumes for language preferences at the national level of individuals filing claims for SSI Aged benefits for federal fiscal years 2011-2015.
+This data set provides annual volumes for language preferences at the national level of individuals filing claims for Retirement and Survivor benefits for federal fiscal years 2011-2015.
