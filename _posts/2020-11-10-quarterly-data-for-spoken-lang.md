@@ -1,26 +1,26 @@
 ---
 title: >-
   Quarterly Data for Spoken Language Preferences of Supplemental Security Income
-  Aged Applicants (2014-2015)
-created: '2020-11-10T16:50:14.033630'
-modified: '2020-11-10T16:50:14.033641'
+  Aged Applicants (FY 2016, including 53rd week)
+created: '2020-11-10T16:52:01.040072'
+modified: '2020-11-10T16:52:01.040082'
 state: active
 type: dataset
 tags:
-  - '2014'
-  - '2015'
+  - '2016'
+  - 53rd Week
+  - Aged
   - Initial Claims
   - Social Security
   - Social Security Administration
   - Spoken Language
-  - Spoken Language Preferences
   - Ssa
   - Supplemental Security Income
 groups: []
 csv_url: >-
-  https://www.ssa.gov/open/data/Qtrly-Data-Spoken-Language-Initial-Claims-SSI-Aged.csv
+  https://www.ssa.gov/open/data/fy16-onwards-LEP-Spklang-IC-T16-SSIAged-Qtrly-53rdweek.csv
 json_url: ''
 layout: post
 
 ---
-This data set provides quarterly volumes for language preferences at the national level of individuals filing claims for SSI Aged benefits for fiscal years 2014 - 2015.
+This dataset provides quarterly volumes of SSI Aged initial claims at the national level for federal fiscal year 2016 with quarter 4 shown two ways—we base one on a 52-week reporting period and one on a 53-week reporting period.
