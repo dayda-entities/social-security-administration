@@ -1,33 +1,25 @@
 ---
 title: >-
   Yearly Data for Asian & Pacific Islander Language Preferences of Social
-  Security Disability Insurance Claimants (2010-2015)
-created: '2020-11-10T16:50:02.040147'
-modified: '2020-11-10T16:50:02.040155'
+  Security Retirement and Survivor Claimants (2016 Onwards)
+created: '2020-11-10T16:52:02.687918'
+modified: '2020-11-10T16:52:02.687925'
 state: active
 type: dataset
 tags:
-  - '2010'
-  - '2011'
-  - '2012'
-  - '2013'
-  - '2014'
-  - '2015'
-  - Api
-  - Asian Languages
-  - Asians
-  - Chinese
-  - Disability Claims
-  - Pacific Island Languages
-  - Pacific Islanders
+  - '2016'
+  - Asian Pacific Islander Language
+  - Claimants
+  - Retirement
+  - Retirement And Survivor Claimants
   - Social Security
   - Social Security Administration
   - Ssa
-  - Vietnamese
+  - Survivor
 groups: []
-csv_url: 'https://www.ssa.gov/open/data/API_Spklang_IC_T2_Dib_Yrly.csv'
+csv_url: 'https://www.ssa.gov/open/data/fy16-onwards-API-Spklang-IC-T2-Rib-Yrly.csv'
 json_url: ''
 layout: post
 
 ---
-This dataset provides annual volumes of the Social Security Disability initial claims at the national level for federal fiscal years 2010 - 2015 for Asian & Pacific Islander language preferences.
+This data set provides annual volumes for API language preferences at the national level of individuals filing claims for Retirement and Survivor benefits from federal fiscal year 2016 and onwards.
