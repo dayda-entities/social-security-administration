@@ -1,24 +1,26 @@
 ---
 title: >-
-  Yearly Data for Spoken Language Preferences of Social Security Disability
-  Insurance Claimants (2016 Onwards)
-created: '2020-11-10T16:52:01.844996'
-modified: '2020-11-10T16:52:01.845004'
+  Yearly Data for Spoken Language Preferences of Social Security Retirement and
+  Survivor Claimants (FY 2016, including 53rd week)
+created: '2020-11-10T16:52:02.164291'
+modified: '2020-11-10T16:52:02.164301'
 state: active
 type: dataset
 tags:
   - '2016'
+  - 53rd Week
   - Claimants
-  - Disability
-  - Disability Claimants
+  - Retirement
+  - Retirement And Survivor Claimants
   - Social Security
   - Social Security Administration
   - Ssa
   - Survivor
 groups: []
-csv_url: 'https://www.ssa.gov/open/data/fy16-onwards-LEP-Spklang-IC-T2-Dib-Yrly.csv'
+csv_url: >-
+  https://www.ssa.gov/open/data/fy16-onwards-LEP-Spklang-IC-T2-Rib-Yrly-53rdweek.csv
 json_url: ''
 layout: post
 
 ---
-This data set provides annual volumes for language preferences at the national level of individuals filing claims for Disability insurance benefits from federal fiscal year 2016 and onwards. 
+This dataset provides annual volume of the Social Security Retirement & Survivors initial claims at the national level for federal fiscal year 2016 shown two ways—we base one on a 52-week reporting period and one on a 53-week reporting period.
