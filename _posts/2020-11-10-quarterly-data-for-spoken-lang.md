@@ -1,27 +1,25 @@
 ---
 title: >-
   Quarterly Data for Spoken Language Preferences of Supplemental Security Income
-  Blind and Disabled Applicants (2014-2015)
-created: '2020-11-10T16:50:14.033397'
-modified: '2020-12-03T20:36:10.575822'
+  Aged Applicants (2016 Onward)
+created: '2020-11-10T16:51:49.545116'
+modified: '2020-12-03T20:37:49.904746'
 state: active
 type: dataset
 tags:
-  - '2014'
-  - '2015'
-  - Blind And Disabled
-  - Disabled
-  - Language Preferences
+  - '2016'
+  - Aged
+  - Initial Claims
   - Social Security
   - Social Security Administration
+  - Spoken Language
   - Ssa
-  - Ssi
   - Supplemental Security Income
 groups: []
 csv_url: >-
-  https://www.ssa.gov/open/data/Qtrly-Spoken-Language-Initial-Claims-Blind-Disabled.csv
+  https://www.ssa.gov/open/data/fy16-onwards-LEP-Spklang-IC-T16-SSIAged-Qtrly.csv
 json_url: ''
 layout: post
 
 ---
-This data set provides quarterly volumes for language preferences at the national level of individuals filing claims for SSI Blind and Disabled benefits for fiscal years 2014 - 2015.
+This data set provides quarterly volumes for language preferences at the national level of individuals filing claims for SSI Aged benefits for fiscal years 2016 onward.
