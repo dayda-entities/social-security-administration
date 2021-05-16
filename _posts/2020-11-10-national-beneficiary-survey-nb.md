@@ -1,7 +1,7 @@
 ---
-title: National Beneficiary Survey (NBS) Round 5
-created: '2020-11-10T16:52:23.994306'
-modified: '2020-11-10T16:52:23.994316'
+title: National Beneficiary Survey (NBS) Round 4
+created: '2020-11-10T16:50:00.115731'
+modified: '2021-04-06T02:45:21.669365'
 state: active
 type: dataset
 tags:
@@ -9,7 +9,6 @@ tags:
   - Employment
   - Employment Services
   - Entitlement
-  - Jobs
   - Public Benefits
   - Return To Work
   - Social Insurance
@@ -19,9 +18,9 @@ tags:
   - Ssi
   - Ticket To Work
 groups: []
-csv_url: 'https://www.ssa.gov/disabilityresearch/documents/nbsr5puf.csv'
+csv_url: 'https://www.ssa.gov/disabilityresearch/documents/NBSR4PUF.csv'
 json_url: ''
 layout: post
 
 ---
-The National Beneficiary Survey (NBS) Round 5 is a cross-sectional survey of a nationally representative sample of social security beneficiaries age 18 to full retirement age receiving disability benefits in active pay status as of June 2014. We conducted Round 5 in 2015. The NBS collects data on key health, employment, and socio-demographic factors that contribute to Social Security Disability Insurance (SSDI) beneficiaries' and Supplemental Security Income (SSI) recipients' successful or unsuccessful employment efforts.
+A cross-sectional survey of a nationally representative sample of social security beneficiaries age 18-64 receiving disability benefits in active pay status as of June 2009.  The NBS collects data on: 1. work-relevant characteristics of Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI) beneficiaries; 2.  work-related goals and activities of SSDI and SSI beneficiaries, particularly as they relate to implementation of the Ticket to Work program; and 3.  service use, barriers to work, and perceptions about TTW and other SSA programs designed to help beneficiaries with disabilities find and keep jobs.
